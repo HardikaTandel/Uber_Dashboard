@@ -71,8 +71,12 @@ It includes **KPI cards, trend visuals, and location-based analysis** to underst
 
 ## 🖼️ Dashboard Screenshots
 
-(https://github.com/HardikaTandel/Uber_Dashboard/blob/main/uber_landing%20page.png)
-(https://github.com/HardikaTandel/Uber_Dashboard/blob/main/Uber%20-%20dashboard%20(1).png)
+### 📷 Landing Page
+![Dashboard Screenshot 1](https://github.com/HardikaTandel/Uber_Dashboard/blob/main/uber_landing%20page.png)
+
+### 📷 Detailed Dashboard View
+![Dashboard Screenshot 2](https://github.com/HardikaTandel/Uber_Dashboard/blob/main/Uber%20-%20dashboard%20(1).png)
+
 
 ---
 
